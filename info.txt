@@ -1,0 +1,44 @@
+/*
+
+notes/chords -> tracks -> songs
+
+notes/chords are given by the user
+tracks are notes/chords but saved into a text file
+songs are wav files with accompanying tracks
+
+tracks are literally just the user input but in a text file
+
+sing tempo instrument notes/chords...
+	sings the specified notes/chords
+
+track name tempo instrument notes/chords...
+	save the notes/chords as a track
+
+sing name
+	sings a track
+
+append name track1 track2...
+	append the specified tracks into a new track in series
+
+save name track
+	creates a song from the specified track
+
+merge name track1 track2...
+	merge the specified tracks into a song in parallel
+
+perform name
+	sings a song
+
+note name
+	displays the notes/chords of the specified track
+
+sheet name
+	displays the notes/chords of the specified song
+
+displaytrack
+	displays the list of saved tracks
+
+displaysong
+	displays the list of saved songs
+
+*/

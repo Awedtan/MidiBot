@@ -1,0 +1,1 @@
+part3a 170 4[b4,d5]c 8[b4,d5]c 4[b4,d5]c 8[b4,d5]c 4[b4,d5]c 4[a4,c#5]c 8[a4,c#5]c 4[c#5,e5]c 8[c#5,e5]c 4[d5,f#5]c d4[b4,d5]c d4[a4,c#5]c 4[b4,d5]c 1[b4,d5]c 4[d4,b4]c 8[d4,b4]c 4[d4,b4]c 8[d4,b4]c 4[d4,b4]c 4[e4,c#5]c 8[e4,c#5]c 4[e4,c#5]c 8[e4,c#5]c 4[e4,c#5]c 4[e4,c#5]c 8[e4,c#5]c 4[e4,c#5]c 8[e4,c#5]c 4[e4,c#5]c d4[a#4,f#5]c d4[a#4,f#5]c 4[a#4,f#5]c
